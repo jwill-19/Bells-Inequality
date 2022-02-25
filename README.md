@@ -1,6 +1,7 @@
 # Monte Carlo Simulation of Bell Inequalities
 A numerical simulation of the Clauser-Horne-Shimony-Holt (CHSH) Inequality (a Bell type inequality) in Python.
-Packages used included NumPy, Matplotlib, and SciPy.
+Packages used included NumPy, Matplotlib, and SciPy. This project was presented at the 2020 Frontiers in 
+Optics+Laser Science (Fio+LS) Conference and the URECA 2021 Research Symposium. 
 
 ### Abstract
 
